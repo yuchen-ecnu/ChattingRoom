@@ -30,21 +30,11 @@
 
 ![项目结构](screenshot/struct.png)
 
-
-
 ![登录界面](screenshot/login.png)
-
-
 
 ![聊天界面](screenshot/chat.png)
 
-![表情框](screenshot/emojy.png)
-
-![一对一聊天](screenshot/P2P.png)
-
 ![服务器截图](screenshot/server.jpg)
-
-
 
 ------
 
