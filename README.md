@@ -1,14 +1,14 @@
-## Chatting Room
+# Chatting Room
 
 ------
 
-### 项目说明：
+## 项目说明：
 
 ​	Java Swing即时通讯软件，包括服务器和用户两个部分，两者分别负责各自的逻辑，共同完成整个通讯的流程。通过平时对聊天软件的接触，基本实现常用的功能。通讯关键在于通过socket套接字进行UDP连接，以及表情编码，实现表情传输。
 
 ------
 
-### Function：
+## Function：
 
 (1) 用户具有注册和登录的功能（数据库）。
 
@@ -26,7 +26,7 @@
 
 ------
 
-### Screenshot：
+## Screenshot：
 
 ![项目结构](screenshot/struct.png)
 
@@ -38,7 +38,7 @@
 
 ------
 
-### Notice:
+## Notice:
 
 - 该项目为Java Swing编写的轻量级聊天软件
 - 封面腾讯登录界面仅供学习使用，不得用作商业用途
@@ -47,7 +47,7 @@
 
 ------
 
-### Instructions for use:
+## Instructions for use:
 
 - 为方便使用JAR目录下放有编译好的可运行的jar包
 
@@ -66,13 +66,13 @@
 
 ------
 
-### Group:
+## Group:
 
 - Chen Yu（10152510203@ecnu.cn）
 - Shen HuaJie（10152510274@ecnu.cn）
 
 ------
 
-### Note：
+## Note：
 
 本项目参考了网络上的开源项目，并以此为基础进行增加、优化。
