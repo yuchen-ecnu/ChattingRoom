@@ -68,7 +68,7 @@
 
 ## Group:
 
-- Chen Yu（10152510203@ecnu.cn）
+- Chen Yu（920901835@qq.com）
 - Shen HuaJie（10152510274@ecnu.cn）
 
 ------
